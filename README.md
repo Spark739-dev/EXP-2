@@ -58,15 +58,19 @@ Load test
 
 
 ## Model graph:
-
+<img width="1047" height="575" alt="image" src="https://github.com/user-attachments/assets/52348508-e818-4323-a48f-868edb74796e" />
+<br></br>
+<img width="611" height="286" alt="image" src="https://github.com/user-attachments/assets/c18cf6a1-2f23-42f1-a952-a406a95856ec" />
 
 
 ### Open circuit characteristics
-<img width="1047" height="575" alt="image" src="https://github.com/user-attachments/assets/52348508-e818-4323-a48f-868edb74796e" />
+
+<img width="1903" height="767" alt="1" src="https://github.com/user-attachments/assets/653166dc-7b7b-45cd-b9b4-aeab75359d4a" />
 
   
 ### Load Characteristics:
-<img width="611" height="286" alt="image" src="https://github.com/user-attachments/assets/c18cf6a1-2f23-42f1-a952-a406a95856ec" />
+
+<img width="1918" height="782" alt="1" src="https://github.com/user-attachments/assets/424fa892-822b-457d-8f6e-ee47a0172832" />
 
 
 
